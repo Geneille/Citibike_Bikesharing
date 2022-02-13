@@ -13,6 +13,8 @@ In general, the analyis consisted of two main parts:
 
 ## Results 
 
+The full story can be view on Tableau public. [Link To Citibike Analysis Tableau Dashboard](https://public.tableau.com/app/profile/geneille.greaves/viz/CitibikeAnalysis_16444615828460/Story1?publish=yes)
+
 Figure 1a below shows basic consumer metric information. Annual subscribers and males dominate the market share/usage of citibikes. In addition, usage of citibikes is independent of age as displayed in Figure 1b.
 
 Figure 1a. 
