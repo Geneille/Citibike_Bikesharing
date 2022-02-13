@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bike sharing have been a growing means of commute for many people in and around major cities. Bike sharing not only offer a quick and easy means of transport for users, but its popularity has been growing owing to its positive impact on the environment and its potential profit for investors. The main aim of this report was to analyze a set of data and create visualization to create a story in an effort to convince potential investors that a bike-sharing program can be feasible for the city of Des Moines. 
+Bike sharing have been a growing means of commute for many people in and around major cities. Bike sharing not only offer a quick and easy means of transport for users, but its popularity has been growing owing to its positive impact on the environment and its potential profit for investors. The main aim of this report was to analyze a set of data and create visualization in an effort to convince potential investors that a bike-sharing program can be feasible for the city of Des Moines. 
 
 ## Analysis
 
